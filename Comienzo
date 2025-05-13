@@ -1,0 +1,5 @@
+echo "# TFM-prueba" >> README.md
+git init
+C:\Users\User\Desktop\TFM prueba
+git remote add origin https://github.com/joandrycabrera/TFM-prueba.git
+git push -u origin main
